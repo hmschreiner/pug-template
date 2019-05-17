@@ -8,7 +8,7 @@ Edite os arquivos na pasta **_templates_** e execute o comando para compilar os 
 
 `npm run build`
 
-Será criada uma pasta **build** com os arquivos compilados. Abra o arquivo **_templates/index.html_** no navegador e veja a página gerada.
+Será criada uma pasta **build** com os arquivos compilados. Abra o arquivo **_build/index.html_** no navegador e veja a página gerada.
 
 ## Documentação do Pug (Em inglês)
 https://pugjs.org
